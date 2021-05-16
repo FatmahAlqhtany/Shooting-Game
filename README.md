@@ -5,13 +5,13 @@
 ## Clone by using 
 
 ```
-git clone https://github.com/FatmahAlqhtany/Memory-Game.git
+git clone https://github.com/FatmahAlqhtany/Shooting-Game.git
 
-cd Memory-Game
+cd Shooting-Game
 
 git add .
 
-git commit -m "Frist commit to the game "
+ git commit -m "frist Commit "
 
 git push -u origin master
 
