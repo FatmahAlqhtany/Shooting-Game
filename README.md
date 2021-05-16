@@ -1,4 +1,4 @@
-## Memory Game using JavaScript
+## Shooting Game using JavaScript
 
 <img src="https://f.top4top.io/p_1962ebz7t1.gif" >
 
